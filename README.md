@@ -3,6 +3,7 @@ Curated list of awesone Indonesian Government Digital Services. Feel free to mak
 
 ## Public Complaints and Reporting
 - [Lapor.go.id](https://www.lapor.go.id/)
+- [KPK Wistleblowing System](https://kws.kpk.go.id/)
 
 ## Education
 - [OneSearch](https://onesearch.id/)
@@ -29,3 +30,5 @@ Curated list of awesone Indonesian Government Digital Services. Feel free to mak
 - [Indonesia Baik](http://indonesiabaik.id/)
 - [Indonesia Geospatial Portal](https://tanahair.indonesia.go.id/portal-web)
 - [Portal Pengadaan Nasional](https://inaproc.id/)
+- [Sistem Informasi Masjid](https://simas.kemenag.go.id/)
+- [Zakat Online](https://baznas.go.id/bayarzakat)
